@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "66acadbfc6aa8ca9fbbd8384"
+  },
+  "name": "umais",
+  "email": "umaisrasheed63@gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acaefac6aa8ca9fbbd8386"
+  },
+  "name": "AroojMalik",
+  "email": "Aroojmalik77@gmail.com",
+  "password": "pass2589*&",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acaf8ac6aa8ca9fbbd8388"
+  },
+  "name": "Imran Khan",
+  "email": "Imrankhan89@gmail.com",
+  "password": "P4T5I9*&",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acd8f5e3a260e383d239b4"
+  },
+  "name": "",
+  "email": "",
+  "password": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acd9d5e3a260e383d239b6"
+  },
+  "name": "Ali Hassan",
+  "email": "Alihassan56@gmail.com",
+  "password": "pajoome582%&*",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acdb21e3a260e383d239b8"
+  },
+  "name": "UmarMalik",
+  "email": "Umarmalik789@gmail.com",
+  "password": "sadg2594#%",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ace28ce3a260e383d239ba"
+  },
+  "name": "Hadir",
+  "email": "hadirali45@gmail.com",
+  "password": "jklsod25850",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0870b8e1c695f557a6aaf"
+  },
+  "name": "Testdata",
+  "email": "testdata7895@gmail.com",
+  "password": "123545vsfvds8(",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b099998e1c695f557a6ab1"
+  },
+  "name": "Aleem Khan",
+  "email": "aleemkhan89@gmail.com",
+  "password": "dfvs1285%",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5631ae13d0aa01a1e7aab"
+  },
+  "name": "khalid ",
+  "email": "khalid@gmail.com",
+  "password": "qwerty",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d565d8e13d0aa01a1e7aad"
+  },
+  "name": "uamis",
+  "email": "umais@gmail.com",
+  "password": "528",
+  "__v": 0
+}]
